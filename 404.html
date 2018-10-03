@@ -5,22 +5,72 @@ permalink: /404.html
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>divert v1</title>
+		<title>HackSoc | divert v1</title>
+		<link rel="shortcut icon" href="./favicon.ico" />
+
+
+		  <!-- Semantic UI -->
+		  <link rel="stylesheet" type="text/css" href="./semantic-ui.min.css">
+
+		  <!-- Page Styles -->
+		  <link rel="stylesheet" type="text/css" href="./styles.min.css">
 		<script type="text/javascript" src="./redir_links.js?{{site.time | date: '%s%N'}}"></script>
 		<script type="text/javascript" src="./redir.js?{{site.time | date: '%s%N'}}"></script>
 	</head>
-	<body style="font-family: Helvetica, sans-serif;">
-		<div style="width: 850px; margin-top: 35px;">
-			<h1>divert</h1>
+	<body>
+	  <div class="ui inverted vertical masthead center aligned segment">
 
-			<hr>
+	    <div class="ui text container" style="margin: 1.5em 0;">
+	      <img class="ui centered small image" src='./logo.png' alt="HackSoc Logo" style="width: 150px !important;">
+	      <h1 class="ui header green" style="font-weight: 700; margin-top: 0;">
+		HackSoc
+	      </h1>
+	      <h2>Hacking and Programming society at the University of Nottingham</h2>
+	      <h3 id="status">JavaScript is not enabled. You must enable JavaScript to be able to view any <b>divert</b>-powered shortlinks!</h3>
+	    </div>
 
-			<div id="status">JavaScript is not enabled. You must enable JavaScript to be able to view any <b>divert</b>-powered shortlinks!</div>
+	  </div>
 
-
-			<script>
-			(document.getElementById('status').innerHTML = 'That divert short link could not be found.');
-			</script>
+	  <div class="ui vertical stripe segment">
+	    <div class="ui middle aligned stackable container">
+	      <div class="row">
+		<h3 class="ui header">About HackSoc</h3>
+		<p>A part of the University of Nottingham Students'​ Union, HackSoc is centered around getting its members building,
+		  learning, and sharing new tech. Every week we have programming tutorials for complete beginners, advanced topics
+		  with guest speakers, and throughout the year we travel to hackathons to team up with other students from around
+		  the world.</p>
+	      </div>
+	      <div class="row" style="padding-top: 1em;">
+		<h3 class="ui header">Who can join?</h3>
+		<br />
+		<p>HackSoc is open to all. From newbies to seasoned developers, as long as you're interested in tech, HackSoc is for
+		  you.
+		</p>
+	      </div>
+	      <div class="row" style="padding-top: 1em;">
+		<div class="center aligned column">
+		  <a class="ui primary huge button" href="https://www.su.nottingham.ac.uk/societies/society/hack/">
+		    Join Now
+		  </a>
 		</div>
+	      </div>
+	    </div>
+	    <div class="ui vertical segment" style="padding-top: 2em;">
+	      <div class="ui middle aligned stackable container">
+		<div class="row">
+		  <h3 class="ui header">Follow our socials</h3>
+		    <a class="ui blue huge button" href="https://facebook.com/hacksocnotts">
+		      Facebook
+		    </a>
+		    <a class="ui blue huge button" href="https://twitter.com/hacksocnotts">
+		      Twitter
+		    </a>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	<script>
+		(document.getElementById('status').innerHTML = 'That divert short link could not be found.');
+	</script>
 	</body>
 </html>
