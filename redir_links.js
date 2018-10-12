@@ -6,4 +6,5 @@ window.nexdivert = {
 	"hardware-poll": "https://hacksoc.typeform.com/to/a9Flsq",
 	"python-2": "https://github.com/monotron/python-workshops/blob/master/worksheet-session2.md",
 	"hacktoberfest-slides": "https://slides.com/aaronosher/hacksoc-hacktoberfest#/",
+	"discord": "https://discord.gg/yW28tz",
 };
