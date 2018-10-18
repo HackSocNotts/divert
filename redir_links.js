@@ -7,5 +7,5 @@ window.nexdivert = {
 	"python-3": "https://github.com/monotron/python-workshops/blob/master/worksheet-session3.md",
 	"hacktoberfest-slides": "https://slides.com/aaronosher/hacksoc-hacktoberfest#/",
 	"discord": "https://discord.gg/kHg8qXB",
-	"intro-linux": "https://github.com/hacksocnotts/intor-to-linux/blob/master/Worksheet.md",
+	"intro-linux": "https://github.com/hacksocnotts/intro-to-linux/blob/master/Worksheet.md",
 };
