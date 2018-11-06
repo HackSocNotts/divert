@@ -11,4 +11,6 @@ window.nexdivert = {
 	"hacktoberfest-slides": "https://slides.com/aaronosher/hacksoc-hacktoberfest#/",
 	"discord": "https://discord.gg/kHg8qXB",
 	"intro-linux": "https://github.com/hacksocnotts/intro-to-linux/blob/master/Worksheet.md",
+	"javascript-1": "https://github.com/HackSocNotts/JavaScript-Workshops/tree/master/Week%201",
+	"JavaScript-1": "https://github.com/HackSocNotts/JavaScript-Workshops/tree/master/Week%201",
 };
