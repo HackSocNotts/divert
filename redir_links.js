@@ -13,4 +13,6 @@ window.nexdivert = {
 	"intro-linux": "https://github.com/hacksocnotts/intro-to-linux/blob/master/Worksheet.md",
 	"javascript-1": "https://github.com/HackSocNotts/JavaScript-Workshops/tree/master/Week%201",
 	"JavaScript-1": "https://github.com/HackSocNotts/JavaScript-Workshops/tree/master/Week%201",
+	"javascript-2": "https://glitch.com/#!/hacksoc-javascript2?path=README.md",
+	"JavaScript-2": "https://glitch.com/#!/hacksoc-javascript2?path=README.md",
 };
