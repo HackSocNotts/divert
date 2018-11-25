@@ -17,4 +17,5 @@ window.nexdivert = {
 	"JavaScript-2": "https://glitch.com/#!/hacksoc-javascript2?path=README.md",
 	"hacknotts-discord": "http://discord.gg/rMWxfya",
 	"devpost": "https://notts18.devpost.com/",
+	"devpost-late": "https://devpost.com/submit-to/7222-hacknotts-2018/autoregister",
 };
