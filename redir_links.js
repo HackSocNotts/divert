@@ -15,6 +15,8 @@ window.nexdivert = {
 	"JavaScript-1": "https://github.com/HackSocNotts/JavaScript-Workshops/tree/master/Week%201",
 	"javascript-2": "https://glitch.com/#!/hacksoc-javascript2?path=README.md",
 	"JavaScript-2": "https://glitch.com/#!/hacksoc-javascript2?path=README.md",
+	"javascript-3": "https://glitch.com/edit/#!/hacksoc-javascript-3?path=README.md",
+	"JavaScript-3": "https://glitch.com/edit/#!/hacksoc-javascript-3?path=README.md",
 	"hacknotts-discord": "http://discord.gg/rMWxfya",
 	"devpost": "https://notts18.devpost.com/",
 	"devpost-late": "https://devpost.com/submit-to/7222-hacknotts-2018/autoregister",
