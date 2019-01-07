@@ -25,4 +25,5 @@ window.nexdivert = {
 	"hacknotts-team-announcement": "https://mailchi.mp/2b3fee792d30/opportunity-hacknotts-organizing-team",
 	"loclahost-survey": "https://hacksoc.typeform.com/to/ncXQHs?referrer=hacksocnet",
 	"run-a-workshops": "https://hacksoc.typeform.com/to/NdNCZH?referrer=hacksocnet",
+	"talk": "https://hacksoc.typeform.com/to/i6gg5r?referrer=hacksocnet",
 };
