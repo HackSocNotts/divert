@@ -23,4 +23,5 @@ window.nexdivert = {
 	"devpost": "https://notts18.devpost.com/",
 	"devpost-late": "https://devpost.com/submit-to/7222-hacknotts-2018/autoregister",
 	"hacknotts-team-announcement": "https://mailchi.mp/2b3fee792d30/opportunity-hacknotts-organizing-team",
+	"loclahost-survey": "https://aosher.typeform.com/to/ncXQHs?referrer=newsletter",
 };
