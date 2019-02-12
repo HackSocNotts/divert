@@ -26,4 +26,5 @@ window.nexdivert = {
 	"loclahost-survey": "https://hacksoc.typeform.com/to/ncXQHs?referrer=hacksocnet",
 	"run-a-workshops": "https://hacksoc.typeform.com/to/NdNCZH?referrer=hacksocnet",
 	"talk": "https://hacksoc.typeform.com/to/i6gg5r?referrer=hacksocnet",
+	"quorum": "https://docs.google.com/presentation/d/11QRCDurUTcQ2FKbIR2fTL87DWkRrv5nmTXRohi12oMk/edit?usp=sharing"
 };
