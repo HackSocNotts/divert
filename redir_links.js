@@ -26,5 +26,7 @@ window.nexdivert = {
 	"loclahost-survey": "https://hacksoc.typeform.com/to/ncXQHs?referrer=hacksocnet",
 	"run-a-workshops": "https://hacksoc.typeform.com/to/NdNCZH?referrer=hacksocnet",
 	"talk": "https://hacksoc.typeform.com/to/i6gg5r?referrer=hacksocnet",
-	"quorum": "https://docs.google.com/presentation/d/11QRCDurUTcQ2FKbIR2fTL87DWkRrv5nmTXRohi12oMk/view?usp=sharing"
+	"quorum": "https://docs.google.com/presentation/d/11QRCDurUTcQ2FKbIR2fTL87DWkRrv5nmTXRohi12oMk/view?usp=sharing",
+	"kotlin-1": "https://github.com/DanielCordell/Kotlin-Java-Workshops/blob/master/Session%201/Intro%20to%20Kotlin.md",
+	"Kotlin-1": "https://github.com/DanielCordell/Kotlin-Java-Workshops/blob/master/Session%201/Intro%20to%20Kotlin.md"
 };
