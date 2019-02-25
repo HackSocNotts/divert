@@ -9,7 +9,7 @@ window.nexdivert = {
 	"python-4": "https://github.com/monotron/python-workshops/blob/master/worksheet-session4.md",
 	"python-5": "https://github.com/monotron/python-workshops/blob/master/worksheet-session5.md",
 	"hacktoberfest-slides": "https://slides.com/aaronosher/hacksoc-hacktoberfest#/",
-	"discord": "https://discord.gg/kHg8qXB",
+	"discord": "https://discord.gg/EbgFUu9",
 	"intro-linux": "https://github.com/hacksocnotts/intro-to-linux/blob/master/Worksheet.md",
 	"javascript-1": "https://github.com/HackSocNotts/JavaScript-Workshops/tree/master/Week%201",
 	"JavaScript-1": "https://github.com/HackSocNotts/JavaScript-Workshops/tree/master/Week%201",
