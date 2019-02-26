@@ -30,5 +30,6 @@ window.nexdivert = {
 	"kotlin-1": "https://github.com/DanielCordell/Kotlin-Java-Workshops/blob/master/Intro%20to%20Kotlin.md",
 	"Kotlin-1": "https://github.com/DanielCordell/Kotlin-Java-Workshops/blob/master/Intro%20to%20Kotlin.md",
 	"kotlin-2": "https://github.com/DanielCordell/Kotlin-Java-Workshops/blob/master/Intro%20to%20Kotlin_2.md",
-	"Kotlin-2": "https://github.com/DanielCordell/Kotlin-Java-Workshops/blob/master/Intro%20to%20Kotlin_2.md"
+	"Kotlin-2": "https://github.com/DanielCordell/Kotlin-Java-Workshops/blob/master/Intro%20to%20Kotlin_2.md",
+	"unity-slides": "https://docs.google.com/presentation/d/1DC5W9umlJFAkiwsrPe4OcNtdSKarY2wqXjLIzPs4P_0/edit?usp=sharing"
 };
