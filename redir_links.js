@@ -36,4 +36,5 @@ window.nexdivert = {
 	"constitution": "https://github.com/HackSocNotts/constitution",
 	"nominate": "",
 	"ammend": "",
+	"hacknotts-team": "https://docs.google.com/forms/d/e/1FAIpQLSeeps5bvQtnU1kvNJLJHhxVp04wGBEN97U6c6LoyAq3XLAvBg/viewform"	
 };
