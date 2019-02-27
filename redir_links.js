@@ -32,5 +32,8 @@ window.nexdivert = {
 	"kotlin-2": "https://github.com/DanielCordell/Kotlin-Java-Workshops/blob/master/Intro%20to%20Kotlin_2.md",
 	"Kotlin-2": "https://github.com/DanielCordell/Kotlin-Java-Workshops/blob/master/Intro%20to%20Kotlin_2.md",
 	"unity-slides": "https://docs.google.com/presentation/d/1DC5W9umlJFAkiwsrPe4OcNtdSKarY2wqXjLIzPs4P_0/edit?usp=sharing",
-	"unity-code": "https://uniofnottm-my.sharepoint.com/:u:/g/personal/psyao5_nottingham_ac_uk/ESIXYv2Wk-FLi12GKPMgFd8BF_zvn2pqW0bsgcK-aNgW8g?e=3X4P5H"
+	"unity-code": "https://uniofnottm-my.sharepoint.com/:u:/g/personal/psyao5_nottingham_ac_uk/ESIXYv2Wk-FLi12GKPMgFd8BF_zvn2pqW0bsgcK-aNgW8g?e=3X4P5H",
+	"constitution": "https://github.com/HackSocNotts/constitution",
+	"nominate": "",
+	"ammend": "",
 };
