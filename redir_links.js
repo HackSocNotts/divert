@@ -38,5 +38,6 @@ window.nexdivert = {
 	"constitution": "https://github.com/HackSocNotts/constitution",
 	"nominate": "https://docs.google.com/forms/d/e/1FAIpQLSer_vMIPMSzULZRXjsqd7UuVoEaRIMmFPXw10F-XMCKQtyBAw/viewform?usp=sf_link",
 	"amend": "https://docs.google.com/forms/d/e/1FAIpQLSeLb07q7EAbjUn26jykqgNchJjtTJ3CNHfh_u71wBDtVeVQvg/viewform?usp=sf_link",
-	"hacknotts-team": "https://docs.google.com/forms/d/e/1FAIpQLSeeps5bvQtnU1kvNJLJHhxVp04wGBEN97U6c6LoyAq3XLAvBg/viewform"	
+	"hacknotts-team": "https://docs.google.com/forms/d/e/1FAIpQLSeeps5bvQtnU1kvNJLJHhxVp04wGBEN97U6c6LoyAq3XLAvBg/viewform",
+	"cybersec-1": "https://drive.google.com/file/d/0B61O-SQk-BrPd1NFaTZTbm9tOF9Oam14WmJCRXdadmEtUjBr/view?usp=sharing",	
 };
