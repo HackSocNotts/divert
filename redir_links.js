@@ -43,4 +43,5 @@ window.nexdivert = {
 	"cybersec-2": "https://drive.google.com/file/d/0B61O-SQk-BrPbnZFMERrbFlhd25UR1k5eGRFVkVXcHB5bThj/view?usp=sharing",
 	"merch": "https://www.su.nottingham.ac.uk/societies/society/hack/products/",
 	"state-of": "https://docs.google.com/presentation/d/e/2PACX-1vSpJSq1kB5bHTEiHQ4r6zgdwXrBBwWrUSOjWcNI-jPWGHd2TJypNVwpeGd31qouxEjaV-Gw8Mt8-Rc-/pub?start=false&loop=false&delayms=3000",
+	"aaron": "https://i.imgur.com/plmVFeB.png",
 };
